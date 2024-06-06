@@ -1,0 +1,6 @@
+{
+	"luau-lsp.types.roblox": false,
+	"luau-lsp.types.definitionFiles": [
+		"RG.d.lua"
+	],
+}
